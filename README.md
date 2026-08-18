@@ -2,6 +2,13 @@
 
 A simple, dependency-free Python library for parsing and formatting localization documents.
 
+## Get started
+
+Install via pip from github master branch:
+```
+pip install git+https://github.com/PlushkaNet/localfile.py.git
+```
+
 ## Features
 
 - Parses localization files with `[key]` sections and plain-text values
